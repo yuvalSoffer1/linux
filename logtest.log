@@ -201,3 +201,90 @@ drwxr-xr-x  2 yuvals yuvals    4096 Feb 20 19:23 LinuxFiles-Data
 -rw-r--r--  1 yuvals yuvals    6515 Mar  6 10:10 logtest.log
 -rw-r--r--  1 yuvals yuvals  214487 Mar  6 10:05 oslogs.log
 -rw-r--r--  1 yuvals yuvals 2380789 Mar  6 10:05 webserver.log
+commit 86d118e67856104713c454aa6695d307dad6cd32
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:50:26 2024 +0200
+
+    copy jpg/png files
+
+commit 7b8be4a41da84872c37035ed40de57e245c5fb69
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    first commit
+commit 668db09f52ca8db4408c24d05a2f5691f743bf33
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:50:26 2024 +0200
+
+    copy txt/log files
+
+commit 7b8be4a41da84872c37035ed40de57e245c5fb69
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    first commit
+commit 86cc3d763c3afab72d4336545fe7a82abb71f74e
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 10:10:23 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit dbe3b3b55e79afdbf834f073aeaba36455ff2f34
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 10:10:23 2024 +0200
+
+    first commit
+
+commit 787778ccfb53310fb1c7646c1ebf341b59b900a7
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 10:05:06 2024 +0200
+
+    logtest.log updated
+
+commit 3c8bea9c3f6976dc5d45a03590ecfa60cd561fac
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 10:05:06 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit 945011518cfa7ff8d31ae1e54c1a6ee0716c9183
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 10:05:06 2024 +0200
+
+    first commit
+
+commit 99569bc179901a70822e9854070470f6b101c537
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:50:27 2024 +0200
+
+    logtest.log updated
+
+commit b6950c2bdab79126c8ce1c403f79c71470387e19
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:50:27 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit 7ec0d687f2cb3997c8868d7b6379f6912ae81124
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:50:26 2024 +0200
+
+    first commit
+
+commit 35a75fdae00e35f00f79b55385e24ddd7fcba272
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    logtest.log updated
+
+commit c6752a83c5f613130ac4f9b1b5cd32595a0308a4
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit 7b8be4a41da84872c37035ed40de57e245c5fb69
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    first commit
