@@ -1,0 +1,8 @@
+09:47:16.376220108 - RepoTest Folder Created
+09:47:17.659533440 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz downloaded
+total 488
+drwxr-xr-x 3 yuvals yuvals   4096 Mar  6 09:47 .
+drwxr-x--- 9 yuvals yuvals   4096 Mar  6 09:47 ..
+-rw-r--r-- 1 yuvals yuvals 480177 Mar  6 09:47 Data.tar.gz
+drwxr-xr-x 2 yuvals yuvals   4096 Feb 20 19:23 LinuxFiles-Data
+-rw-r--r-- 1 yuvals yuvals    148 Mar  6 09:47 logtest.log
