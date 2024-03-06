@@ -6,3 +6,24 @@ drwxr-x--- 9 yuvals yuvals   4096 Mar  6 09:47 ..
 -rw-r--r-- 1 yuvals yuvals 480177 Mar  6 09:47 Data.tar.gz
 drwxr-xr-x 2 yuvals yuvals   4096 Feb 20 19:23 LinuxFiles-Data
 -rw-r--r-- 1 yuvals yuvals    148 Mar  6 09:47 logtest.log
+commit 7b8be4a41da84872c37035ed40de57e245c5fb69
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    first commit
+commit 7b8be4a41da84872c37035ed40de57e245c5fb69
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    first commit
+commit c6752a83c5f613130ac4f9b1b5cd32595a0308a4
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    Merged BR_IMAGES and BR_TEXT into master
+
+commit 7b8be4a41da84872c37035ed40de57e245c5fb69
+Author: yuvalSoffer1 <yuval@soffer.name>
+Date:   Wed Mar 6 09:47:17 2024 +0200
+
+    first commit
