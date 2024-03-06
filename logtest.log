@@ -183,3 +183,21 @@ Author: yuvalSoffer1 <yuval@soffer.name>
 Date:   Wed Mar 6 09:47:17 2024 +0200
 
     first commit
+10:10:22.067584998 - RepoTest Folder Created
+10:10:23.453616031 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz downloaded
+total 3288
+drwxr-xr-x  4 yuvals yuvals    4096 Mar  6 10:10 .
+drwxr-x--- 12 yuvals yuvals    4096 Mar  6 10:09 ..
+drwxr-xr-x  8 yuvals yuvals    4096 Mar  6 10:05 .git
+-rw-r--r--  1 yuvals yuvals  480177 Mar  6 10:10 Data.tar.gz
+drwxr-xr-x  2 yuvals yuvals    4096 Feb 20 19:23 LinuxFiles-Data
+-rw-r--r--  1 yuvals yuvals      77 Mar  6 10:05 file_1.txt
+-rw-r--r--  1 yuvals yuvals      58 Mar  6 10:05 file_2.txt
+-rw-r--r--  1 yuvals yuvals   48395 Mar  6 10:05 linux1.jpg
+-rw-r--r--  1 yuvals yuvals  128514 Mar  6 10:05 linux2.jpg
+-rw-r--r--  1 yuvals yuvals    6808 Mar  6 10:05 linux3.png
+-rw-r--r--  1 yuvals yuvals   49815 Mar  6 10:05 linux4.jpg
+-rw-r--r--  1 yuvals yuvals    4495 Mar  6 10:05 log_1.log
+-rw-r--r--  1 yuvals yuvals    6515 Mar  6 10:10 logtest.log
+-rw-r--r--  1 yuvals yuvals  214487 Mar  6 10:05 oslogs.log
+-rw-r--r--  1 yuvals yuvals 2380789 Mar  6 10:05 webserver.log
